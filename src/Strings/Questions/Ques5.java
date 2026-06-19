@@ -10,7 +10,7 @@ public class Ques5 {
         String original = str;
         String reverse = reverse(original);
 
-        for (int i = 0; i < original.length(); i++) {
+        for (int i = 0; i <= original.length()-1; i++) {
             char ch1 = original.charAt(i);
             char ch2 = reverse.charAt(i);
 

@@ -1,6 +1,6 @@
 package Arrays.Questions;
 
-public class TwoDimensionMaximum {
+public class TwoDimensionMinimum {
     public static void main(String[] args) {
         int [][]arr={{20,552,63},{772,56,66}};
         int min=arr[0][0];
