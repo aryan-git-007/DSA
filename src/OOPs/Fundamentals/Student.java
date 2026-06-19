@@ -29,13 +29,12 @@ public class Student {
         this.age= srcobj.age;
         this.nos=srcobj.nos;
     }
-
     //Methods & Behaviour
     void study(){
-        System.out.println(name +"Studying");
+        System.out.println(name +" Studying");
     }
     void sleep(){
-        System.out.println(name +"Sleeping");
+        System.out.println(name +" Sleeping");
     }
      void bunk(){
         System.out.println(name + " Bunking");
