@@ -23,5 +23,10 @@ public class Main {
 
         C1.SetOwner("Michale clarke");
         System.out.println(C1.getowner());
+
+        Truck t1=new Truck("Tata", "Ace", 6, 2);
+        System.out.println(t1.getNo_of_doors());
+        t1.Ac_start();
+
     }
 }

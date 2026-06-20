@@ -1,7 +1,5 @@
 package OOPs.Fundamentals;
 
-import OOPs.Encapsulation.Car;
-
 public class App {
     public static void main(String[] args) {
         Student S1=new Student();
